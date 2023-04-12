@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@Kyxsoo/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple version of LoadAshe (https://loadash.com)",
   "main": "Sample.js",
   "directories": {
     "test": "test"
