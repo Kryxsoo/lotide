@@ -2,7 +2,7 @@
   "name": "@kyxsoo/lotide",
   "version": "1.0.0",
   "description": "A simple version of LoadAshe (https://loadash.com)",
-  "main": "Sample.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Kryxsoo/lotide.git"
   },
-  "author": "",
+  "author": "Mathew Charm",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Kryxsoo/lotide/issues"
